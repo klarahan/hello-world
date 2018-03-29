@@ -1,6 +1,4 @@
 # hello-world
 
-Hello
-+ Aloha
-=
-Helloha!
+Hello + Aloha
+= Helloha!
